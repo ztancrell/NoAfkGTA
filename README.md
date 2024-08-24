@@ -6,16 +6,16 @@ This simple AutoHotkey script prevents GTA V Online AFK kick by running your cha
 
 Features:
 
-    Easy to use: Just run the script and press NUMPAD* to enable/disable ingame
-    Lightweight: Minimal impact on system resources
-    Configurable: Edit the script to remap different keys or modify the behavior to suit your needs
+1. Easy to use: Just run the script and press NUMPAD* to enable/disable ingame
+2. Lightweight: Minimal impact on system resources
+3. Configurable: Edit the script to remap different keys or modify the behavior to suit your needs
 
 Installation:
 
-    Download and install AutoHotkey v2 from here
-    Clone or download this repository
-    Run the NoAfkGTA script
-    Profit!
+1. Download and install AutoHotkey v1 from [here](https://www.autohotkey.com)
+2. Clone or download this repository
+3. Run the NoAfkGTA script
+4. Profit!
 
 Compatibility:
 
